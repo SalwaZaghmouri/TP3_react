@@ -1,0 +1,39 @@
+h1{
+    color: blue;
+    font-style :italic
+}
+.css1{
+    color: blue;
+    background-color: rgb(242, 255, 127);
+    width: 220px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: white;
+    font-size: 15px;
+
+}
+.button{
+    color: rgb(242, 255, 127);
+    background-color: blue;
+    border-radius: 10px;
+    border-color: white;
+    width: 60px;
+    height: 40px;
+}
+.hhh{
+    width:18px;
+    height: 30px;
+}
+span{
+    font-size: 17px;
+    color: blue;
+}
+.css2{
+    width:60px;
+    height: 40px;
+    margin: 6px;
+    color: rgb(242, 255, 127);
+    background-color: blue;
+    border-radius: 10px;
+    border-color: white;
+}
